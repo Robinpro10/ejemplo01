@@ -104,7 +104,7 @@
         android:layout_width="86dp"
         android:layout_height="22dp"
         android:layout_marginStart="56dp"
-        android:layout_marginBottom="48dp"
+        android:layout_marginBottom="44dp"
         app:layout_constraintBottom_toTopOf="@+id/lblres2"
         app:layout_constraintStart_toEndOf="@+id/textView2" />
 
